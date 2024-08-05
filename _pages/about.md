@@ -33,97 +33,20 @@ My research interests include **AI for design and graphics**, **3D digital human
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper accepts to ACM MM 2024. 
-- *2023.06*: &nbsp;🎉🎉 One paper accepts to TVCG. 
-- *2022.09*: &nbsp;🎉🎉 One paper accepts to Nature Communications. 
-- *2022.06*: &nbsp;🎉🎉 One paper accepts to ACM MM 2022 as **Poster**. 
-- *2022.06*: &nbsp;🎉🎉 One paper accepts to TMI. 
-
-# 📕 Preprint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/mate3d1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing](https://arxiv.org/abs/2312.06947)
-
-**Kangneng Zhou**, Daiheng Gao, Xuan Wang, Jie Zhang, Peng Zhang, Xusen Sun, Longhao Zhang, Shiqi Yang, Bang Zhang, Liefeng Bo, Yaxing Wang, Ming-Ming Cheng
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/vividtalk.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](https://humanaigc.github.io/vivid-talk/)
-
-Xusen Sun, Longhao Zhang, Hao Zhu, Peng Zhang, Bang Zhang, Xinya Ji, **Kangneng Zhou**, Daiheng Gao, Liefeng Bo, Xun Cao
-
-</div>
-</div>
+- *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
+- *2023.06*: &nbsp;🎉🎉 One paper accepts to IEEE TVCG. 
+-
 
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/CT2X-GAN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Multi-view X-ray Image Synthesis with Multiple Domain Disentanglement from CT Scans](https://arxiv.org/abs/2404.11889)
-
-Lixing Tan, Shuang Song, **Kangneng Zhou**, Chengbo Duan, Lanying Wang, Huayang Ren, Linlin Liu, Wei Zhang, Ruoxiu Xiao
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/tvcg2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/tvcg2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MeshWGAN: Mesh-to-Mesh Wasserstein GAN With Multi-Task Gradient Penalty for 3D Facial Geometric Age Transformation](https://ieeexplore.ieee.org/document/10148804)
-
+IEEE Transactions on Visualization and Computer Graphics 
 Jie Zhang, **Kangneng Zhou**, Yan Luximon, Tong-Yee Lee, Ping Li
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acmmm2022.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute](https://arxiv.org/abs/2207.05300)
-
-**Kangneng Zhou**, Xiaobin Zhu, Daiheng Gao, Kai Lee, Xinjie Li, Xu-cheng Yin
-
-&nbsp;🎉🎉 **Poster** &nbsp;🎉🎉
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2022</div><img src='images/tmi2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Generative Consistency for Semi-Supervised Cerebrovascular Segmentation from TOF-MRA](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=y1vvxWYAAAAJ&sortby=pubdate&citation_for_view=y1vvxWYAAAAJ:UebtZRa9Y70C)
-
-Cheng Chen, **Kangneng Zhou**, Zhiliang Wang, Ruoxiu Xiao
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2021</div><img src='images/tii2021.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An effective deep neural network for lung lesions segmentation from COVID-19 CT images](https://web.archive.org/web/20210715033826id_/https://ieeexplore.ieee.org/ielx7/9424/9456773/09354055.pdf)
-
-Cheng Chen, **Kangneng Zhou**, Muxi Zha, Xiangyan Qu, Xiaoyu Guo, Hongyu Chen, Zhiliang Wang, Ruoxiu Xiao
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -139,37 +62,15 @@ Cheng Chen, **Kangneng Zhou**, Muxi Zha, Xiangyan Qu, Xiaoyu Guo, Hongyu Chen, Z
 [![](https://img.shields.io/github/forks/MontaEllis/Pytorch-Medical-Segmentation)](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
 [![](https://img.shields.io/github/issues/MontaEllis/Pytorch-Medical-Segmentation)](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
 
----
 
-[SSL-For-Medical-Segmentation](https://github.com/MontaEllis/SSL-For-Medical-Segmentation), **TMI 2022**
-
-[![](https://img.shields.io/github/stars/MontaEllis/SSL-For-Medical-Segmentation)](https://github.com/MontaEllis/SSL-For-Medical-Segmentation)
-[![](https://img.shields.io/github/forks/MontaEllis/SSL-For-Medical-Segmentation)](https://github.com/MontaEllis/SSL-For-Medical-Segmentation)
-[![](https://img.shields.io/github/issues/MontaEllis/SSL-For-Medical-Segmentation)](https://github.com/MontaEllis/SSL-For-Medical-Segmentation)
-
-
----
-
-[Pytorch-Medical-Classification](https://github.com/MontaEllis/Pytorch-Medical-Classification)
-
-[![](https://img.shields.io/github/stars/MontaEllis/Pytorch-Medical-Classification)](https://github.com/MontaEllis/Pytorch-Medical-Classification)
-[![](https://img.shields.io/github/forks/MontaEllis/Pytorch-Medical-Classification)](https://github.com/MontaEllis/Pytorch-Medical-Classification)
-[![](https://img.shields.io/github/issues/MontaEllis/Pytorch-Medical-Classification)](https://github.com/MontaEllis/Pytorch-Medical-Classification)
-
----
-
-[Framework-of-GAN-Inversion](https://github.com/MontaEllis/Framework-of-GAN-Inversion)
-
-[![](https://img.shields.io/github/stars/MontaEllis/Framework-of-GAN-Inversion)](https://github.com/MontaEllis/Framework-of-GAN-Inversion)
-[![](https://img.shields.io/github/forks/MontaEllis/Framework-of-GAN-Inversion)](https://github.com/MontaEllis/Framework-of-GAN-Inversion)
-[![](https://img.shields.io/github/issues/MontaEllis/Framework-of-GAN-Inversion)](https://github.com/MontaEllis/Framework-of-GAN-Inversion)
 
 # 🎖 Honors and Awards
 
-- *2021.10* Silver prize in 7th China International College Students’ ’Internet+’ Innovation and Entrepreneurship Competition
-- *2018.5* First prize in 17th China University Robot Competition
-- *2019.5* Second prize in 18th China University Robot Competition
-- *2019.7* Third prize in 8th China Software Cup
+- *2024* Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva 
+- *2023* Silver Award of International Design Excellence Awards 
+- *2022* Best Presentation Award by the 18th ACM SIGGRAPH VRCAI
+- *2021* Third Class of Excellent Professional Publications by the China Industry and Information Technology Publishing and Media Group  
+- *2017* First Class of National Science and Technology Progress Award (No. J-2017-1-05-R14) by the China National Textile and Apparel Council (CNTAC)  
 
 # 😊 Academic Services
 

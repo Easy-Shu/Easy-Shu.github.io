@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jie Zhang (张杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Macao Polytechnic University"
+  bio              : #"Macao Polytechnic University"
   location         : "Macau, China"
   employer         :
   pubmed           : 
