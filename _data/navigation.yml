@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/#-Selected-Publications-for-3D-Human-Modelling"
   
   - title: "OpenSource Repositories"
     url: "/#-opensource-repositories"
