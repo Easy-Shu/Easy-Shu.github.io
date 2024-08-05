@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
--   title: "Books"
-    url: "/#-books"
-
   - title: "Selected Publications"
     url: "/#-selected-publications-for-3d-human-modelling"
   
@@ -21,6 +18,5 @@ main:
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  - title: "Teaching Courses"
-    url: "/#-teaching-courses"
+ 
 

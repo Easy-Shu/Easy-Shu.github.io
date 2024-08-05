@@ -34,7 +34,6 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 
-# 📝 Books
 
 
 # 📝 Selected Publications for 3D Human Modelling
@@ -123,8 +122,6 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
 Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applications of Artificial Intelligence
-
-# 📖 Teaching Courses
 
 
 <!-- # 💬 Invited Talks -->
