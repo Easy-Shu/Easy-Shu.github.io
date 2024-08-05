@@ -24,6 +24,11 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 **I am looking for strongly-motivated PhD candidates to join us**
 
+<!-- ~~Looking for a PhD position in Generative Models in 2023 (fall).~~ -->
+
+
+<!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
@@ -120,10 +125,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applications of Artificial Intelligence
 
 # 📖 Teaching Courses
-- *COMP1122*.  Introduction to Programming (Fall: 2024)
-- *CSAI2122*.  Introduction to Artificial Intelligence (Fall: 2024)
-- *COMP6132*.  Introduction to Big Data (Fall: 2024)
-- *COMP8123*.  Advanced Topics in Computer Applied Technology (Fall: 2024)
+
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
