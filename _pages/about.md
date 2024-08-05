@@ -93,9 +93,12 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Selected Publications for Human-Computer Interaction
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang***, Jun Zhang*. [A New Design Framework of Dynamic Spatial Information in AR-HUD to Evoke Driver's Instinctive Response.](https://doi.org/10.1016/j.ijhcs.2023.103194). International Journal of Human-Computer Studies. 2024, 183: 103194:1-103194:18. 
 
-
-
+</div>
+</div>
 
 
 # 📦 OpenSource Repositories
