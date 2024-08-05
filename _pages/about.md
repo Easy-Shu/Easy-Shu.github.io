@@ -65,6 +65,14 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Selected Publications for Human Wearable Design
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI</div><img src='images/AEI_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Yan Luximon, Luwei Chen. [Size Children's Eyeglasses: A Comfort-Oriented and Assembly-Guided Approach Based on Statistical Ophthalmic Model](https://doi.org/10.1016/j.aei.2023.102266). Advanced Engineering Informatics. 2023, 59: 102266:1-102266:12. 
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
