@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kangneng Zhou (周康能)"
-description              : "Ph.D student in Nankai University. Focusing on image synthesis and neural rendering."
-repository               : "https://montaellis.github.io/"
+title                    : "Jie Zhang (张杰)"
+description              : "Macao Polytechnic University"
+repository               : "https://easy-shu.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kangneng Zhou (周康能)"
+  name             : "Jie Zhang (张杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  bio              : "Macao Polytechnic University"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=y1vvxWYAAAAJ"
-  email            : "elliszkn@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Kangneng-Zhou-2"
+  googlescholar    : "https://scholar.google.com/citations?user=gBkYZeMAAAAJ"
+  email            : "jpeter.zhang@mpu.edu.mo"
+  researchgate     : "https://www.researchgate.net/profile/Jie_Zhang138/publications"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MontaEllis"
+  github           : "EasyShu"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0000-0001-8219-5590
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

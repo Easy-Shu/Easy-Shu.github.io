@@ -20,14 +20,11 @@ redirect_from:
 
 # 😀 Me
 
-Jie Zhang
+Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023.
 
-My research interests include **Generative Models**, **Neural Rendering**, **Computer Graphics**, and **Medical Image Processing**. 
+My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
-I work very closely to Daiheng Gao, Dr. Jie Zhang, Prof. Shuang Song, Dr. Weicai Huang and Prof. Yuming Jiang.
-
-
-
+**Looking for a PhD position in AI for 2D/3D Human-Related Studies in 2025 (fall).**
 
 <!-- ~~Looking for a PhD position in Generative Models in 2023 (fall).~~ -->
 
@@ -176,19 +173,23 @@ Cheng Chen, **Kangneng Zhou**, Muxi Zha, Xiangyan Qu, Xiaoyu Guo, Hongyu Chen, Z
 
 # 😊 Academic Services
 
-Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV
+<!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: CMC
+Journal Reviewer: IEEE TVCG, IEEE TASE
 
-# 📖 Educations
+<!--# 📖 Educations -->
 
-- *2023.09 - now*, Ph.D Student: Computer and Science
-- *2020.09 - 2023.06*, Master: Computer and Science
-- *2016.09 - 2020.06*, Bachelor: Internet of Things Engineering
+<!--- *2023.09 - now*, Ph.D Student: Computer and Science -->
+<!--- *2020.09 - 2023.06*, Master: Computer and Science -->
+<!--- *2016.09 - 2020.06*, Bachelor: Internet of Things Engineering -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2023.03 - 2023.12*, XR Lab at Institute for Intelligent Computing in Alibaba Group, Beijing.
+
+
+
+
+
+
