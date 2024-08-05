@@ -37,23 +37,19 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Selected Publications for 3D Human Modelling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [MeshWGAN: Mesh-to-Mesh Wasserstein GAN With Multi-Task Gradient Penalty for 3D Facial Geometric Age Transformation.](https://doi.org/10.1109/TVCG.2023.3284500) IEEE Transactions on Visualization and Computer Graphics. 2024, 30(8): 4927-4940.
-
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/AE_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Ergonomics</div><img src='images/AE_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Jie Zhang**, Fang Fu, Xinyu Shi, Yan Luximon,[Modeling 3D Geometric Growth Patterns and Variations of Children’s Heads](https://doi.org/10.1016/j.apergo.2022.103933). Applied Ergonomics 2023, 108: 103933:1-103933:11. 
-
+**Jie Zhang**, Fang Fu, Xinyu Shi, Yan Luximon, [Modeling 3D Geometric Growth Patterns and Variations of Children’s Heads](https://doi.org/10.1016/j.apergo.2022.103933). Applied Ergonomics. 2023, 108: 103933:1-103933:11. 
 </div>
 </div>
 
