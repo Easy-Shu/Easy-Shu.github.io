@@ -34,10 +34,17 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 -
+# 📝 Books
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Python</div><img src='images/book_Python.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang** [Beautiful Data Visualization of Python- How to Make Professional Charts](https://books.google.com.hk/books?id=v3C2zQEACAAJ)([Python数据可视化之美-专业图表绘制指南)](https://item.jd.com/12829246.html)). Publishing House of Electronic Industry, 2020. ISBN: 978-7-121-38370-0. (Note that it is used as textbook by several universities, e.g., Haikou College of Economics, and published in Taiwan and Hong Kong of China.)
+</div>
+</div>
+
 
 # 📝 Selected Publications for 3D Human Modelling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [MeshWGAN: Mesh-to-Mesh Wasserstein GAN With Multi-Task Gradient Penalty for 3D Facial Geometric Age Transformation.](https://doi.org/10.1109/TVCG.2023.3284500) IEEE Transactions on Visualization and Computer Graphics. 2024, 30(8): 4927-4940.
@@ -110,23 +117,23 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 # 🎖 Honors and Awards
 
-- *2024* Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva 
-- *2023* Silver Award of International Design Excellence Awards 
-- *2022* Best Presentation Award by the 18th ACM SIGGRAPH VRCAI
-- *2021* Third Class of Excellent Professional Publications by the China Industry and Information Technology Publishing and Media Group  
-- *2017* First Class of National Science and Technology Progress Award by the China National Textile and Apparel Council (CNTAC)  
+- *2024*. Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva 
+- *2023*. Silver Award of International Design Excellence Awards 
+- *2022*. Best Presentation Award by the ACM SIGGRAPH VRCAI
+- *2021*. Third Class of Excellent Professional Publications by the China Industry and Information Technology Publishing and Media Group  
+- *2017*. First Class of National Science and Technology Progress Award by the China National Textile and Apparel Council (CNTAC)  
 
 # 😊 Academic Services
 
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: IEEE TVCG, IEEE TASE
+Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applications of Artificial Intelligence
 
-<!--# 📖 Educations -->
-
-<!--- *2023.09 - now*, Ph.D Student: Computer and Science -->
-<!--- *2020.09 - 2023.06*, Master: Computer and Science -->
-<!--- *2016.09 - 2020.06*, Bachelor: Internet of Things Engineering -->
+# 📖 Teaching Courses
+*COMP1122*   Introduction to Programming  [Fall: 2024]
+*CSAI2122*   Introduction to Artificial Intelligence [Fall: 2024]
+*COMP6132*   Introduction to Big Data [Fall: 2024]
+*COMP8123*   Advanced Topics in Computer Applied Technology [Fall: 2024]
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
