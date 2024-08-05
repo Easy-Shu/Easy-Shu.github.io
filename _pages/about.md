@@ -53,6 +53,16 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/IJIE_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Hassaan Iftikhar, Parth Shah, Yan Luximon. [Age and Sex Factors Integrated 3D Statistical Models of Adults’ Heads](https://doi.org/10.1016/j.ergon.2022.103321). International Journal of Industrial Ergonomics。 2022, 90: 103321:1-103321:13.
+
+</div>
+</div>
+
 # 📝 Selected Publications for Human Wearable Design
 
 
