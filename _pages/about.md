@@ -34,6 +34,29 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 
+# 📝 Books
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Python</div><img src='images/book_Python.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Jie Zhang**. [Beautiful Data Visualization of Python- How to Make Professional Charts](https://books.google.com.hk/books?id=v3C2zQEACAAJ) ([Python数据可视化之美-专业图表绘制指南](https://item.jd.com/12829246.html)). Publishing House of Electronic Industry, 2020. ISBN: 978-7-121-38370-0. (Note that it is used as textbook by several universities, e.g., Haikou College of Economics, and published in Taiwan and Hong Kong of China.)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excel</div><img src='images/book_Excel.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Jie Zhang**. [Beautiful Data Visualization of Excel- How to Make Academic and Business Charts](https://books.google.com.hk/books?id=l_gyswEACAAJ) ([Excel数据之美-科学图表与商业图表的绘制](https://item.jd.com/11986529.html)). Publishing House of Electronic Industry, 2016. ISBN: 978-7-121-29890-5. (Note that it is used as textbook by several universities, e.g., Zhejiang Gongshang University, and published in Taiwan and Hong Kong of China.)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">R</div><img src='images/book_R.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Jie Zhang**. [Beautiful Data Visualization of R- How to Make Professional Charts](https://books.google.com.hk/books?id=aDxYzQEACAAJ) ([R语言数据可视化之美-专业图表绘制指南](https://item.jd.com/12733890.html)). Publishing House of Electronic Industry, 2019. ISBN: 978-7-121-37443-2. (Note that it used as textbook by several universities, e.g., North China Electric Power University.)
+</div>
+</div>
+
 
 
 # 📝 Selected Publications for 3D Human Modelling
