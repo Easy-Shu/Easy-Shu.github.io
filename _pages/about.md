@@ -127,7 +127,11 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 [![](https://img.shields.io/github/forks/MontaEllis/Pytorch-Medical-Segmentation)](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
 [![](https://img.shields.io/github/issues/MontaEllis/Pytorch-Medical-Segmentation)](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
 
+[Python-Beautiful-Visualization](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
 
+[![](https://img.shields.io/github/stars/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
+[![](https://img.shields.io/github/forks/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
+[![](https://img.shields.io/github/issues/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
 
 # 🎖 Honors and Awards
 
