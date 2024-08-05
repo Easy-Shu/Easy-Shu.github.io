@@ -94,7 +94,7 @@ Journal Reviewer: IEEE TVCG, IEEE TASE
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/bottom.png' alt="sym"  style="width: 100%; height: auto;"></div></div>
+<img src='images/bottom.png' alt="sym"  style="width: 100%; height: auto;">
 
 
 
