@@ -20,9 +20,7 @@ redirect_from:
 
 # 😀 Me
 
-Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023.
-
-My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
+Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
 **Looking for a PhD position in AI for 2D/3D Human-Related Studies in 2025 (fall).**
 
@@ -34,12 +32,10 @@ My research interests include **AI for design and graphics**, **3D digital human
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
-- *2023.06*: &nbsp;🎉🎉 One paper accepts to IEEE TVCG. 
+- *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 -
 
-# 📝 Selected Publications 
-
-
+# 📝 Selected Publications for Human Modelling
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/tvcg2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,6 +47,17 @@ My research interests include **AI for design and graphics**, **3D digital human
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+
+# 📝 Selected Publications for Human Wearable Design
+
+
+
+
+# 📝 Selected Publications for Human-Computer Interaction
+
+
+
 
 
 
@@ -87,7 +94,7 @@ Journal Reviewer: IEEE TVCG, IEEE TASE
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/tvcg2023.gif' alt="sym" width="100%"></div></div>
 
 
 
