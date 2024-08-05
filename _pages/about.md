@@ -143,7 +143,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applications of Artificial Intelligence
 
-# 💬 Teaching Courses
+# 📖 Teaching Courses
 - *CSAI2122*. Introduction to Artificial Intelligence [Fall: 2024]
 - *COMP6132*. Introduction to Big Data [Fall: 2024]
 - *COMP1122*. Introduction to Artificial Intelligence [Fall: 2024]
