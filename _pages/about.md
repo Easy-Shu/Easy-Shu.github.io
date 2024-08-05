@@ -65,12 +65,22 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Selected Publications for Human Wearable Design
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/CAD_2022.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**, Yan Luximon, Parth Shah, Kangneng Zhou, Ping Li. [Customize My Helmet: A Novel Algorithmic Approach Based on 3D Head Prediction](https://doi.org/10.1016/j.cad.2022.103271). Computer-Aided Design 2022, 150: 1-11. 
+**Jie Zhang**, Yan Luximon, Jinyi Wang, Ping Li. [Capture My Head: A Convenient and Accessible Approach Combining 3D Shape Reconstruction and Size Measurement from 2D Images for Headwear Design](https://doi.org/10.1016/j.cad.2023.103487). Computer-Aided Design. 2023, 159: 1-14.
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Yan Luximon, Parth Shah, Kangneng Zhou, Ping Li. [Customize My Helmet: A Novel Algorithmic Approach Based on 3D Head Prediction](https://doi.org/10.1016/j.cad.2022.103271). Computer-Aided Design. 2022, 150: 1-11. 
+
+</div>
+</div>
+
 
 
 # 📝 Selected Publications for Human-Computer Interaction
