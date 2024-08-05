@@ -53,8 +53,6 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/IJIE_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
