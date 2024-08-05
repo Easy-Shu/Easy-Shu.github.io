@@ -20,7 +20,7 @@ redirect_from:
 
 # 😀 Me
 
-Now I'm a first year Ph.D. student in Nankai University, supervised by Prof. Yaxing Wang and Prof. Ming-Ming Cheng. I obatained my master's degree in Computer and Science from the School of Computer & Communication Engineering, University of Science and Technology Beijing, supervised by Prof. Xu-cheng Yin and Prof. Xiaobin Zhu. I obatained my bachelor's degree in Internet of Things Engineering from the School of Computer & Communication Engineering, University of Science and Technology Beijing in 2020, supervised by Prof. Ruoxiu Xiao.
+Jie Zhang
 
 My research interests include **Generative Models**, **Neural Rendering**, **Computer Graphics**, and **Medical Image Processing**. 
 
