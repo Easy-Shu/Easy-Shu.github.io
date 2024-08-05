@@ -41,12 +41,6 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excel</div><img src='images/book_Excel.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Jie Zhang**. [Beautiful Data Visualization of Excel- How to Make Academic and Business Charts](https://books.google.com.hk/books?id=l_gyswEACAAJ) ([Excel数据之美-科学图表与商业图表的绘制](https://item.jd.com/11986529.html)). Publishing House of Electronic Industry, 2016. ISBN: 978-7-121-29890-5. (Note that it is used as textbook by several universities, e.g., Zhejiang Gongshang University, and published in Taiwan and Hong Kong of China.)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">R</div><img src='images/book_R.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +48,12 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excel</div><img src='images/book_Excel.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**. [Beautiful Data Visualization of Excel- How to Make Academic and Business Charts](https://books.google.com.hk/books?id=l_gyswEACAAJ) ([Excel数据之美-科学图表与商业图表的绘制](https://item.jd.com/11986529.html)). Publishing House of Electronic Industry, 2016. ISBN: 978-7-121-29890-5. (Note that it is used as textbook by several universities, e.g., Zhejiang Gongshang University, and published in Taiwan and Hong Kong of China.)
+</div>
+</div>
 
 
 # 📝 Selected Publications for 3D Human Modelling
