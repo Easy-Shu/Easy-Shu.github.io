@@ -47,7 +47,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Ergonomics</div><img src='images/AE_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AE</div><img src='images/AE_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Fang Fu, Xinyu Shi, Yan Luximon, [Modeling 3D Geometric Growth Patterns and Variations of Children’s Heads](https://doi.org/10.1016/j.apergo.2022.103933). Applied Ergonomics. 2023, 108: 103933:1-103933:11. 
 </div>
@@ -65,7 +65,12 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Selected Publications for Human Wearable Design
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/CAD_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Yan Luximon, Parth Shah, Kangneng Zhou, Ping Li. [Customize My Helmet: A Novel Algorithmic Approach Based on 3D Head Prediction](https://doi.org/10.1016/j.cad.2022.103271). Computer-Aided Design 2022, 150: 1-11. 
 
+</div>
+</div>
 
 
 # 📝 Selected Publications for Human-Computer Interaction
