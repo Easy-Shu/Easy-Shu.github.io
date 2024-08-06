@@ -31,7 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Won Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva. 
+- *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Award by the International Exhibition of Inventions Geneva. 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 
 # 📝 Books
@@ -135,11 +135,13 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 # 🎖 Honors and Awards
 
-- *2024*. Gold Medal with Congratulations of the Jury of International Exhibition of Inventions Geneva 
-- *2023*. Silver Award of International Design Excellence Awards 
-- *2022*. Best Presentation Award by the ACM SIGGRAPH VRCAI
-- *2021*. Third Class of Excellent Professional Publications by the China Industry and Information Technology Publishing and Media Group  
-- *2017*. First Class of National Science and Technology Progress Award by the China National Textile and Apparel Council (CNTAC)  
+<img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;">
+
+- *2024.04*. Gold Medal with Congratulations of the Jury Award by the International Exhibition of Inventions Geneva
+- *2023.12*. Silver Award of International Design Excellence Awards (IDEA) Award by The Industrial Designers Society of America (IDSA)
+- *2022.12*. Best Presentation Award by the ACM SIGGRAPH VRCAI
+- *2021.06*. Third Class of Excellent Professional Publications Award by the China Industry and Information Technology Publishing and Media Group  
+- *2017.11*. First Class of National Science and Technology Progress Award by the China National Textile and Apparel Council (CNTAC)  
 
 # 😊 Academic Services
 
@@ -150,7 +152,7 @@ Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applicat
 # 📖 Teaching Courses
 - *CSAI2122*. Introduction to Artificial Intelligence [Fall: 2024]
 - *COMP6132*. Introduction to Big Data [Fall: 2024]
-- *COMP1122*. Introduction to Artificial Intelligence [Fall: 2024]
+- *COMP1122*. Introduction to Programming [Fall: 2024]
 - *COMP8123*. Advanced Topics in Computer Applied Technology [Fall: 2024]
 
 
