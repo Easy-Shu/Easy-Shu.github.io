@@ -140,7 +140,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 - *2024.04*. Gold Medal with Congratulations of the Jury Award by the International Exhibition of Inventions Geneva
 - *2023.12*. Silver Award of International Design Excellence Awards (IDEA) Award by the Industrial Designers Society of America (IDSA)
 - *2022.12*. Best Presentation Award by the ACM SIGGRAPH VRCAI
-- *2021.06*. Third Class of Excellent Professional Publications Award by the China Industry and Information Technology Publishing and Media Group  
+- *2021.06*. Third Class of Excellent Professional Publications Award by the China Industry and Information Technology Publishing \& Media Group  
 - *2017.11*. First Class of National Science and Technology Progress Award by the China National Textile and Apparel Council (CNTAC)  
 
 # 😊 Academic Services
