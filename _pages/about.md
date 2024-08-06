@@ -19,8 +19,7 @@ redirect_from:
 
 
 # 😀 Me
-<!--![](https://komarev.com/ghpvc/?username=easy-shu)-->
-[visitor badge](https://visitor-badge.glitch.me/badge?repo_id=easy-shu)
+![](https://komarev.com/ghpvc/?username=easy-shu&base=100)
 
 
 
