@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 😀 Me
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${easy-shu})
+![](https://komarev.com/ghpvc/?username=easy-shu)
 
 Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
