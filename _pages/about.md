@@ -135,7 +135,9 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 # 🎖 Honors and Awards
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>
+<div class='paper-box'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>
+</div>
+
 
 - *2024.04*. Gold Medal with Congratulations of the Jury Award by the International Exhibition of Inventions Geneva
 - *2023.12*. Silver Award of International Design Excellence Awards (IDEA) Award by The Industrial Designers Society of America (IDSA)
