@@ -25,7 +25,7 @@ redirect_from:
 
 Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
-**I am looking for strongly-motivated PhD candidates to join us**
+**I am looking for strongly-motivated PhD candidates to join us**. [More Phd application information and approach can be found in school enrollment homepage](https://www.mpu.edu.mo/postgraduate/zh/doctor_list.php).
 
 <!-- ~~Looking for a PhD position in Generative Models in 2023 (fall).~~ -->
 
