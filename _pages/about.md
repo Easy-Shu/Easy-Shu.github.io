@@ -113,6 +113,14 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023b.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Yan Luximon, Parth Shah, Ping Li. [3D Statistical Head Modeling for Face/Head-Related Product Design: A State-of-the-Art Review](https://doi.org/10.1016/j.cad.2023.103483). Computer-Aided Design. 2023, 159: 103483:1-103483:24. 
+
+</div>
+</div>
+
+
 # 📝 Selected Publications for Human-Computer Interaction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2023.jpg' alt="sym" width="100%"></div></div>
