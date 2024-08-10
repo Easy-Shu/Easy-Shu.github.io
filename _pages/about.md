@@ -34,7 +34,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Awarded by the International Exhibition of Inventions Geneva. 
+- *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 
 # 📝 Books
@@ -153,7 +153,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
 - *2022.12*. Best Presentation Award by [the ACM SIGGRAPH VRCAI](https://dl.acm.org/conference/VRCAI)
 - *2021.06*. Third Class of Excellent Professional Publications Awarded by [the China Industry and Information Technology Publishing & Media Group](https://www.ciitp.com.cn/p/z/1500024798300.html)
-- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/aboutUs/)  
+- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/)  
 
 # 😊 Academic Services
 
