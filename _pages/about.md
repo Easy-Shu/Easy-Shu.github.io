@@ -63,12 +63,10 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements with an Orthosis Case Study. 2024.
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. 2024.
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
-
+</div>
 
 # 📝 Selected Publications for 3D Human Modelling
 
