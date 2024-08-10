@@ -59,6 +59,17 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 
 
+# 📝 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements with an Orthosis Case Study. 2024.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+
+
 # 📝 Selected Publications for 3D Human Modelling
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
@@ -145,6 +156,14 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 [![](https://img.shields.io/github/issues/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
 
 # 🎖 Honors and Awards
+<!--
+- *2024.04*. Gold Medal with Congratulations of the Jury Awarded by the International Exhibition of Inventions Geneva
+- *2023.12*. Silver Award of International Design Excellence Awards (IDEA)Awarded by the Industrial Designers Society of America (IDSA)
+- *2023.11*. Outstanding Contribution Award for the 20th Anniversary of the Publishing House of Electronic Industry-Broadview
+- *2022.12*. Best Presentation Award by the ACM SIGGRAPH VRCAI
+- *2021.06*. Third Class of Excellent Professional Publications Awarded by the China Industry and Information Technology Publishing & Media Group
+- *2017.11*. First Class of National Science and Technology Progress Awarded by the China National Textile and Apparel Council (CNTAC)
+ --> 
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
 
@@ -153,7 +172,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
 - *2022.12*. Best Presentation Award by [the ACM SIGGRAPH VRCAI](https://dl.acm.org/conference/VRCAI)
 - *2021.06*. Third Class of Excellent Professional Publications Awarded by [the China Industry and Information Technology Publishing & Media Group](https://www.ciitp.com.cn/p/z/1500024798300.html)
-- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/)  
+- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/)
 
 # 😊 Academic Services
 
