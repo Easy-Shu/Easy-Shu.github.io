@@ -143,6 +143,14 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 [![](https://img.shields.io/github/forks/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
 [![](https://img.shields.io/github/issues/Easy-Shu/Beautiful-Visualization-with-Python)](https://github.com/Easy-Shu/Beautiful-Visualization-with-Python)
 
+
+[R-Beautiful-Visualization](https://github.com/Easy-Shu/Beautiful-Visualization-with-R)
+
+[![](https://img.shields.io/github/stars/Easy-Shu/Beautiful-Visualization-with-R)](https://github.com/Easy-Shu/Beautiful-Visualization-with-R)
+[![](https://img.shields.io/github/forks/Easy-Shu/Beautiful-Visualization-with-R)](https://github.com/Easy-Shu/Beautiful-Visualization-with-R)
+[![](https://img.shields.io/github/issues/Easy-Shu/Beautiful-Visualization-with-R)](https://github.com/Easy-Shu/Beautiful-Visualization-with-R)
+
+
 # 🎖 Honors and Awards
 <!--
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by the International Exhibition of Inventions Geneva
