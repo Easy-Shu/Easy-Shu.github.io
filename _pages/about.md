@@ -21,8 +21,6 @@ redirect_from:
 # 😀 Me
 ![](https://komarev.com/ghpvc/?username=easy-shu&base=100)
 
-
-
 Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **AI for design and graphics**, **3D digital human body/head modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
 **I am looking for strongly-motivated PhD candidates to join us**. [More Phd application information can be found in school enrollment homepage](https://www.mpu.edu.mo/esca/zh/phd_cat_2324.php).
@@ -72,9 +70,7 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [MeshWGAN: Mesh-to-Mesh Wasserstein GAN With Multi-Task Gradient Penalty for 3D Facial Geometric Age Transformation.](https://doi.org/10.1109/TVCG.2023.3284500) IEEE Transactions on Visualization and Computer Graphics. 2024, 30(8): 4927-4940.
-
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -90,7 +86,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/IJIE_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Hassaan Iftikhar, Parth Shah, Yan Luximon. [Age and Sex Factors Integrated 3D Statistical Models of Adults’ Heads](https://doi.org/10.1016/j.ergon.2022.103321). International Journal of Industrial Ergonomics. 2022, 90: 103321:1-103321:13.
-
 </div>
 </div>
 
@@ -99,7 +94,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI</div><img src='images/AEI_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Yan Luximon, Luwei Chen. [Size Children's Eyeglasses: A Comfort-Oriented and Assembly-Guided Approach Based on Statistical Ophthalmic Model](https://doi.org/10.1016/j.aei.2023.102266). Advanced Engineering Informatics. 2024, 59: 102266:1-102266:12. 
-
 </div>
 </div>
 
@@ -108,7 +102,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Yan Luximon, Jinyi Wang, Ping Li. [Capture My Head: A Convenient and Accessible Approach Combining 3D Shape Reconstruction and Size Measurement from 2D Images for Headwear Design](https://doi.org/10.1016/j.cad.2023.103487). Computer-Aided Design. 2023, 159: 1-14.
-
 </div>
 </div>
 
@@ -116,7 +109,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Yan Luximon, Parth Shah, Kangneng Zhou, Ping Li. [Customize My Helmet: A Novel Algorithmic Approach Based on 3D Head Prediction](https://doi.org/10.1016/j.cad.2022.103271). Computer-Aided Design. 2022, 150: 1-11. 
-
 </div>
 </div>
 
@@ -125,7 +117,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Yan Luximon, Parth Shah, Ping Li. [3D Statistical Head Modeling for Face/Head-Related Product Design: A State-of-the-Art Review](https://doi.org/10.1016/j.cad.2023.103483). Computer-Aided Design. 2023, 159: 103483:1-103483:24. 
-
 </div>
 </div>
 
@@ -135,7 +126,6 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Design Framework of Dynamic Spatial Information in AR-HUD to Evoke Driver's Instinctive Response](https://doi.org/10.1016/j.ijhcs.2023.103194). International Journal of Human-Computer Studies. 2024, 183: 103194:1-103194:18. (Co-Corresponding Author)
-
 </div>
 </div>
 
