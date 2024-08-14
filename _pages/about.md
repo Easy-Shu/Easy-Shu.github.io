@@ -120,6 +120,11 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIM</div><img src='images/JIM_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Pengpeng Yao, Hochung Wu,ohn H. Xin. [Automatic Color Pattern Recognition of Multispectral Printed Fabric Images](https://doi.org/10.1007/s10845-022-01947-8). Journal of Intelligent Manufacturing. 2023, 34: 2747–2763. 
+</div>
+</div>
 
 # 📝 Selected Publications for Human-Computer Interaction
 
