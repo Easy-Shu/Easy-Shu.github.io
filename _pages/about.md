@@ -32,6 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by IEEE TMM.
 - *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
 
@@ -67,6 +68,14 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 </div>
 
 # 📝 Selected Publications for 3D Human Modelling
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TMM_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [3DCMM: 3D Comprehensive Morphable Models
+ with UV-UNet for Accurate Head Creation.]() IEEE Transactions on Multimedia. 2024: 1-14.
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
