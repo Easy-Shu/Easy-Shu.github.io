@@ -32,7 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2408513).
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by IJHCI.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by IEEE TMM.
 - *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by IEEE TVCG. 
