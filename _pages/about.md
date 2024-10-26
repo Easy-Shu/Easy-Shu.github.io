@@ -63,7 +63,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. 2024.
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. 2024: 1-21.
 
 </div>
 </div>
@@ -71,7 +71,7 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Foo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMI_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xingzhi Shi, Yadie Yang\*, **Jie Zhang**\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. 2024.
+Xingzhi Shi, Yadie Yang\*, **Jie Zhang**\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. 2024: 1-17.
 
 </div>
 </div>
