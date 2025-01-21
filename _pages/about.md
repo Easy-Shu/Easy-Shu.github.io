@@ -32,6 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by Computers in Industry.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by IJHCI.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by IJHCI.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by IEEE TMM.
@@ -61,13 +62,6 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 📝 Preprint
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Zhaohua Zhu, Wenxuan Ji, Yadie Yang, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. 2024: 1-21.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMI_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,6 +132,15 @@ Xingzhi Shi, Yadie Yang\*, **Jie Zhang**\*. 3D Female Breast Measurement for Fas
 **Jie Zhang**, Yan Luximon, Parth Shah, Ping Li. [3D Statistical Head Modeling for Face/Head-Related Product Design: A State-of-the-Art Review](https://doi.org/10.1016/j.cad.2023.103483). Computer-Aided Design. 2023, 159: 103483:1-103483:24. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CII</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. Computers in Industry. 2025: 1-21.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIM</div><img src='images/JIM_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
