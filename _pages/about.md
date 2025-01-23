@@ -201,7 +201,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: IEEE TVCG, IEEE TASE, Applied Ergonomics, Engineering Applications of Artificial Intelligence
+Journal Reviewer: IEEE TVCG, IEEE TASE, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence
 
 # 📖 Teaching Courses
 - *COMP421*. Artificial Intelligence [Spring: 2025]
