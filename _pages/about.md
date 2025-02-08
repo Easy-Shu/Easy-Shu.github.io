@@ -136,10 +136,10 @@ Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CII</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements. Computers in Industry. 2025: 1-21.
-
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements with an Orthosis Case
+ Study](https://doi.org/10.1016/j.compind.2025.104257). Computers in Industry. 2025, 167: 104257:1-104257:21.
 </div>
-</div>
+</div>)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIM</div><img src='images/JIM_2023.jpg' alt="sym" width="100%"></div></div>
