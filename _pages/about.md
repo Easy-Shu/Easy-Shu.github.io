@@ -32,7 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper accepted by [Computers in Industry] (https://doi.org/10.1016/j.compind.2025.104257).
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by [Computers in Industry](https://doi.org/10.1016/j.compind.2025.104257).
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2440985).
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2408513).
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by [IEEE TMM](https://doi.org/10.1109/TMM.2024.3521835).
