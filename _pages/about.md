@@ -105,13 +105,24 @@ Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fas
 
 # 📝 Selected Publications for Human Wearable Design
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CII</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements with an Orthosis Case
+ Study](https://doi.org/10.1016/j.compind.2025.104257). Computers in Industry. 2025, 167: 104257:1-104257:21.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI</div><img src='images/AEI_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**, Yan Luximon, Luwei Chen. [Size Children's Eyeglasses: A Comfort-Oriented and Assembly-Guided Approach Based on Statistical Ophthalmic Model](https://doi.org/10.1016/j.aei.2023.102266). Advanced Engineering Informatics. 2024, 59: 102266:1-102266:12. 
+**Jie Zhang**\*, Luwei Chen， Hang Ren, Yan Luximon\*, Ping Li. Face2Wear: An Automatic and User-Friendly FacewearPersonalization Framework with 3D Symmetry-Aware Face Registration Using RGB-D Selfies. Computer-Aided Design. 2025：1-27. 
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Yan Luximon, Jinyi Wang, Ping Li. [Capture My Head: A Convenient and Accessible Approach Combining 3D Shape Reconstruction and Size Measurement from 2D Images for Headwear Design](https://doi.org/10.1016/j.cad.2023.103487). Computer-Aided Design. 2023, 159: 1-14.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -131,13 +142,6 @@ Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2023b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Yan Luximon, Parth Shah, Ping Li. [3D Statistical Head Modeling for Face/Head-Related Product Design: A State-of-the-Art Review](https://doi.org/10.1016/j.cad.2023.103483). Computer-Aided Design. 2023, 159: 103483:1-103483:24. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CII</div><img src='images/CII_2024b.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape: A Novel Footwear Customisation Framework Utilising 3D Shape Estimation from Anthropometric Measurements with an Orthosis Case
- Study](https://doi.org/10.1016/j.compind.2025.104257). Computers in Industry. 2025, 167: 104257:1-104257:21.
 </div>
 </div>
 
