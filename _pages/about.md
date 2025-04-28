@@ -108,7 +108,7 @@ Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fas
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI</div><img src='images/CAD_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**\*, Luwei Chen， Hang Ren, Yan Luximon\*, Ping Li. Face2Wear: An Automatic and User-Friendly FacewearPersonalization Framework with 3D Symmetry-Aware Face Registration Using RGB-D Selfies. Computer-Aided Design. 2025：1-27. 
+**Jie Zhang**\*, Luwei Chen， Hang Ren, Yan Luximon\*, Ping Li. Face2Wear: An Automatic and User-Friendly Facewear Personalization Framework with 3D Symmetry-Aware Face Registration Using RGB-D Selfies. Computer-Aided Design. 2025：1-27. 
 </div>
 </div>
 
