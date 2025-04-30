@@ -34,8 +34,8 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by [Computers in Industry](https://doi.org/10.1016/j.compind.2025.104257) (JCR/CAS Q1).
-- *2024.12*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2440985) (JCR Q1).
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2408513) (JCR Q1).
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2440985) (SCI/SSCI, JCR Q1).
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2408513) (SCI/SSCI, JCR Q1).
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by [IEEE TMM](https://doi.org/10.1109/TMM.2024.3521835) (JCR/CAS Q1, CCF B).
 - *2024.04*: &nbsp;🎉🎉 Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2023.3284500) (JCR Q1/CCF A).
