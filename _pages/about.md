@@ -67,10 +67,20 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMI_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. 2024: 1-17.
+Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. 2025: 1-17.
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IJHCS_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**\*. FunBreath: A Novel Interactive Nebulizer Mask with Gamification System for Children’s Effective and Enjoyable Treatment. 2025: 1-40.
+
+</div>
+</div>
+
 
 # 📝 Selected Publications for 3D Human Modelling
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/TMM_2024.jpg' alt="sym" width="100%"></div></div>
