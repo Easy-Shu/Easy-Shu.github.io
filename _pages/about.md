@@ -118,7 +118,7 @@ Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/CAD_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**\*, Luwei Chen， Hang Ren, Yan Luximon\*, Ping Li. Face2Wear: An Automatic and User-Friendly Facewear Personalization Framework with 3D Symmetry-Aware Face Registration Using RGB-D Selfies. Computer-Aided Design. 2025：1-27. 
+**Jie Zhang**\*, Luwei Chen， Hang Ren, Yan Luximon\*, Ping Li. [Face2Wear: An Automatic and User-Friendly Facewear Personalization Framework with 3D Symmetry-Aware Face Registration Using RGB-D Selfies](https://doi.org/10.1016/j.cad.2025.103888). Computer-Aided Design. 2025, 103888:1-103888:11. 
 </div>
 </div>
 
