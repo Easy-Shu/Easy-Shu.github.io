@@ -73,20 +73,13 @@ Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fas
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IJHCS_2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**\*. FunBreath: A Novel Interactive Nebulizer Mask with Gamification System for Children’s Effective and Enjoyable Treatment. 2025: 1-40.
-
-</div>
-</div>
 
 
 # 📝 Selected Publications for 3D Human Modelling
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/TMM_2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [3DCMM: 3D Comprehensive Morphable Models
- with UV-UNet for Accurate Head Creation.](https://doi.org/10.1109/TMM.2024.3521835) IEEE Transactions on Multimedia. 2024: 1-14.
+ with UV-UNet for Accurate Head Creation.](https://doi.org/10.1109/TMM.2024.3521835) IEEE Transactions on Multimedia. 2025(27): 1887-1900.
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -165,6 +158,15 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape
 
 # 📝 Selected Publications for Human-Computer Interaction
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**\*. FunBreath: A Novel Interactive Nebulizer Mask with Gamification System for Children’s Effective and Enjoyable Treatment. International Journal of Human-Computer Studies. 2025: 1-40. (CCF A, Co-Corresponding Author)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Design Framework of Dynamic Spatial Information in AR-HUD to Evoke Driver's Instinctive Response](https://doi.org/10.1016/j.ijhcs.2023.103194). International Journal of Human-Computer Studies. 2024, 183: 103194:1-103194:18. (CCF A, Co-Corresponding Author)
@@ -216,7 +218,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: IEEE TVCG, IEEE TASE, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCI.
+Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCI.
 
 # 📖 Teaching Courses
 - *COMP421*. Artificial Intelligence [Spring: 2025]
