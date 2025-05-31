@@ -33,6 +33,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by IJHCS (JCR Q1/CCF A).
+- *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by [Computers in Industry](https://doi.org/10.1016/j.compind.2025.104257) (JCR/CAS Q1).
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by [IJHCI](https://doi.org/10.1080/10447318.2024.2440985) (SCI/SSCI, JCR Q1).
