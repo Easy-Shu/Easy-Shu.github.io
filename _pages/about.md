@@ -214,7 +214,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
 - *2022.12*. Best Presentation Award by [the ACM SIGGRAPH VRCAI](https://dl.acm.org/conference/VRCAI)
 - *2021.06*. Third Class of Excellent Professional Publications Awarded by [the China Industry and Information Technology Publishing & Media Group](https://www.ciitp.com.cn/p/z/1500024798300.html)
-- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/)
+- *2017.11*. First Class of National Science and Technology Progress Awarded by [the China National Textile and Apparel Council (CNTAC)](https://www.cntac.org.cn/) (中国纺织工业联合会科学技术进步一等奖)
 
 # 😊 Academic Services
 
