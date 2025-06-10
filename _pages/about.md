@@ -32,7 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (design concepts)] (https://www.red-dot.org/design-concept).
+- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/design-concept).
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies) (JCR Q1/CCF A).
 - *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
@@ -209,7 +209,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
  --> 
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
-- *2025.06*: [Red Dot Design Award (design concepts)] (https://www.red-dot.org/design-concept) (德国红点设计概念大奖)
+- *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/design-concept) (德国红点设计概念大奖)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖)
 - *2023.12*. Silver Award of [International Design Excellence Awards (IDEA)](https://www.idsa.org/awards-recognition/idea/idea-gallery/adaptspecs/) Awarded by [the Industrial Designers Society of America (IDSA)](https://www.idsa.org/) (美国「国际设计优秀奖(IDEA) 」银奖)
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
