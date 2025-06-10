@@ -32,6 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (design concepts)] (https://www.red-dot.org/design-concept).
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies) (JCR Q1/CCF A).
 - *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
@@ -220,7 +221,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCI.
+Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCS, IJHCI.
 
 # 📖 Teaching Courses
 - *COMP421*. Artificial Intelligence [Spring: 2025]
