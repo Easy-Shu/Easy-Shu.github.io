@@ -166,7 +166,7 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCS</div><img src='images/IJHCS_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**\*. [FunBreath: A Novel Interactive Nebulizer Mask with Gamification System for Children’s Effective and Enjoyable Treatment](https://doi.org/10.1016/j.ijhcs.2025.103557). International Journal of Human-Computer Studies. 2025: 1-40. (CCF A, Co-Corresponding Author)
+Bo Liu, Qiuyu Ye, Jingyan Yang, Jun Zhang, Ping Li, Yan Luximon\*, **Jie Zhang**\*. [FunBreath: A Novel Interactive Nebulizer Mask with Gamification System for Children’s Effective and Enjoyable Treatment](https://doi.org/10.1016/j.ijhcs.2025.103557). International Journal of Human-Computer Studies. 2025, 203: 103557:1-103557:17. (CCF A, Co-Corresponding Author)
 
 </div>
 </div>
