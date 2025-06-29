@@ -33,7 +33,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
-- *2025.06*: &nbsp;🎉🎉 One paper accepted by IEEE TIM (JCR Q1).
+- *2025.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (JCR Q1).
 - *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/design-concept)(德国红点设计概念大奖-世界三大设计奖之一).
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies) (JCR Q1/CCF A).
 - *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
