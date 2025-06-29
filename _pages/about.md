@@ -69,7 +69,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 📝 Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMI_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MST_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Xingzhi Shi, **Jie Zhang**\*, Yadie Yang\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. 2025: 1-17.
