@@ -180,7 +180,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/TIM_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
- Huiming Hu,Xingzhi Shi, Wenfang Song,Yadie Yang*, **Jie Zhang**. Research Progress of Intelligent Sitting Posture Monitoring Systems:A Survey. IEEE Transactions on Instrumentation & Measurement. 2025：1-22. 
+ Huiming Hu,Xingzhi Shi, Wenfang Song,Yadie Yang*, **Jie Zhang**\*. Research Progress of Intelligent Sitting Posture Monitoring Systems:A Survey. IEEE Transactions on Instrumentation & Measurement. 2025：1-22. 
 </div>
 </div>
 
