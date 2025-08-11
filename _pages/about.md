@@ -31,6 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper accepted by [SIGGRAPH Asian (Journal Track)](https://asia.siggraph.org/2025/) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (JCR Q1).
