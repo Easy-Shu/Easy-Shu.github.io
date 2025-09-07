@@ -234,6 +234,11 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCS, IJHCI.
 
 # 📖 Teaching Courses
+- *COMP8123*. Advanced Topics in Computer Applied Technology [Fall: 2025]
+- *CSAI2123*. Introduction to Data Science [Fall: 2025]
+- *COMP6298*. Project Report [Fall: 2025]
+- *COMP8299*. Thesis [Fall: 2025]
+
 - *COMP6298*. Project Report [Spring: 2025]
 - *COMP421*. Artificial Intelligence [Spring: 2025]
 - *CSAI2123*. Introduction to Data Science [Spring: 2025]
