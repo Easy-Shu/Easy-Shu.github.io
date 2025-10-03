@@ -31,6 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper accepted by [Applied Ergonomics](https://www.sciencedirect.com/journal/applied-ergonomics) (SCI/SSCI JCR Q2).
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by [SIGGRAPH Asian (Journal Track)](https://asia.siggraph.org/2025/) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
@@ -96,6 +97,12 @@ Xingzhi Shi, Hang Ren, **Jie Zhang**, Yadie Yang\*. 3D Female Breast Measurement
 **Jie Zhang**, Kangneng Zhou, Yan Luximon, Tong-Yee Lee, Ping Li. [MeshWGAN: Mesh-to-Mesh Wasserstein GAN With Multi-Task Gradient Penalty for 3D Facial Geometric Age Transformation.](https://doi.org/10.1109/TVCG.2023.3284500) IEEE Transactions on Visualization and Computer Graphics. 2024, 30(8): 4927-4940.
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AE</div><img src='images/AE_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jie Zhang**, Hang Ren, Yan Luximon, Xin Wang. [3D Head Growth and Aging Trajectories in Chinese and Caucasian for Headwear Customization: from Modeling to Comparison](https://www.sciencedirect.com/journal/applied-ergonomics). Applied Ergonomics. 2025: 1-20. 
 </div>
 </div>
 
