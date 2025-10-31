@@ -21,7 +21,7 @@ redirect_from:
 # 😀 Me
 ![](https://komarev.com/ghpvc/?username=easy-shu&base=100)
 
-Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **AI for design and graphics**, **3D anatomical human body modeling**, **AI-driven product design**, and **AI-assisted interactive design**. 
+Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. My research interests include **3D anatomical human body modeling**, **CT image analysis**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
 **I am looking for strongly-motivated PhD candidates to join us**. [More Phd application information can be found in school enrollment homepage](https://www.mpu.edu.mo/esca/zh/phd_cat_2324.php).
 
