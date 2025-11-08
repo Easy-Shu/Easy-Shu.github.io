@@ -153,7 +153,7 @@ Zhaohua Zhu, Wenxuan Ji, Yadie Yang, Sio-Kei Im, **Jie Zhang**\*. [Measure2Shape
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MST_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/MST_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Xingzhi Shi, Hang Ren, Jie Zhang, Yadie Yang\*. 3D Female Breast Measurement for Fashion Design: A State-of-the-Art Review. International Journal of Industrial Ergonomics. 2025: 1-17.
