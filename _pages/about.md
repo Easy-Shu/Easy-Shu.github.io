@@ -31,7 +31,8 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 One paper accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (JCR/CAS Q1, CCF B).
+- *2025.11*: &nbsp;🎉🎉 Invited talk: 华为终端用户体验技术大会 (东莞).
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (JCR/CAS Q1, CCF B).
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by [Applied Ergonomics](https://www.sciencedirect.com/journal/applied-ergonomics) (SCI/SSCI JCR Q2).
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by [SIGGRAPH Asian (Journal Track)](https://asia.siggraph.org/2025/) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
@@ -166,7 +167,7 @@ Xingzhi Shi, Hang Ren, Jie Zhang, Yadie Yang\*. [3D Female Breast Measurement fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jinbo Luo , Hong Qu, Yujie Zhao, Jie Zhang\*, Yadie Yang\*. Deep Learning for 3D Fashion Design: A Survey from a Sewing Pattern-Driven Perspective. IEEE Transactions on Circuits and Systems for Video Technology. 2025: 1-23.
+Jinbo Luo , Hong Qu, Yujie Zhao, Jie Zhang\*, Yadie Yang\*. [Deep Learning for 3D Fashion Design: A Survey from a Sewing Pattern-Driven Perspective](https://doi.org/10.1109/TCSVT.2025.3637565). IEEE Transactions on Circuits and Systems for Video Technology. 2025: 1-23.
 
 </div>
 </div>
