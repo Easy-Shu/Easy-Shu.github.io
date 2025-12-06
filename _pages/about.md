@@ -35,7 +35,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2025.11*: &nbsp;🎉🎉 Invited talk: 华为终端用户体验技术大会 (东莞).
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (JCR/CAS Q1, CCF B).
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by [Applied Ergonomics](https://www.sciencedirect.com/journal/applied-ergonomics) (SCI/SSCI JCR Q2).
-- *2025.08*: &nbsp;🎉🎉 One paper accepted by [SIGGRAPH Asian (Journal Track)](https://asia.siggraph.org/2025/) (CCF A).
+- *2025.08*: &nbsp;🎉🎉 One paper accepted by [SIGGRAPH Asian (Journal Track of ACM TOG)](https://asia.siggraph.org/2025/) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (JCR Q1).
