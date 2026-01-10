@@ -175,13 +175,13 @@ Jinbo Luo , Hong Qu, Yujie Zhao, Jie Zhang\*, Yadie Yang\*. [Deep Learning for 3
 </div>
 </div>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIM</div><img src='images/JIM_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2026a.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**, Pengpeng Yao, Hochung Wu, John H. Xin. [Automatic Color Pattern Recognition of Multispectral Printed Fabric Images](https://doi.org/10.1007/s10845-022-01947-8). Journal of Intelligent Manufacturing. 2023, 34: 2747–2763. 
+Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. ketch2Avatar: Geometry-guided 3D Full-body Human Generation in $\pm360^{\circ}$ from Hand-drawn Sketches. IEEE Transactions on Visualization and Computer Graphics. 2026: 1-15.
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
-</div> 
---> 
+</div>
 
 # 📝 Selected Publications for Human-Computer Interaction
 
