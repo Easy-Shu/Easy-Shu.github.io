@@ -42,7 +42,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (JCR Q1).
-- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/design-concept)(德国红点设计概念大奖-世界三大设计奖之一).
+- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123)(德国红点设计概念大奖-世界三大设计奖之一).
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies) (JCR Q1/CCF A).
 - *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
@@ -239,7 +239,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
  --> 
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
-- *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/design-concept) (德国红点设计概念大奖-世界三大设计奖之一)
+- *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖-世界举办历史最长，规模最大的发明展之一)
 - *2023.12*. Silver Award of [International Design Excellence Awards (IDEA)](https://www.idsa.org/awards-recognition/idea/idea-gallery/adaptspecs/) Awarded by [the Industrial Designers Society of America (IDSA)](https://www.idsa.org/) (美国「国际设计优秀奖(IDEA) 」银奖-世界三大设计奖之一)
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
@@ -251,9 +251,13 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <!--Conference Reviewer: ACM MM, NeurIPS, CVPR, PRCV-->
 
-Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCS, IJHCI.
+Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, IEEE TAC, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCS, IJHCI.
 
 # 📖 Teaching Courses
+- *CSAI2123*. Artificial Intelligence [Spring: 2026]
+- *COMP6298*. Project Report [Spring: 2026]
+- *COMP8299*. Thesis [Spring: 2026]
+
 - *COMP8123*. Advanced Topics in Computer Applied Technology [Fall: 2025]
 - *CSAI2123*. Introduction to Data Science [Fall: 2025]
 - *COMP6298*. Project Report [Fall: 2025]
