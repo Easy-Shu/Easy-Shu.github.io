@@ -32,7 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A).
-- *2026.01*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2023.3284500) (JCR Q1/CCF A).
+- *2026.01*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2026.3657593) (JCR Q1/CCF A).
 - *2025.12*: &nbsp;🎉🎉 Invited talk: International Smart Wearable Fashion Design Conference (国际服装智能可穿戴设计大会).
 - *2025.11*: &nbsp;🎉🎉 Invited talk: The 5th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第5届设计工效学学术会议).
 - *2025.11*: &nbsp;🎉🎉 Invited talk: 华为终端用户体验技术大会 (东莞).
@@ -178,7 +178,7 @@ Jinbo Luo , Hong Qu, Yujie Zhao, Jie Zhang\*, Yadie Yang\*. [Deep Learning for 3
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG_2026a.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. Sketch2Avatar: Geometry-guided 3D Full-body Human Generation in 360$^{\circ}$ from Hand-drawn Sketches. IEEE Transactions on Visualization and Computer Graphics. 2026: 1-15.
+Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Geometry-guided 3D Full-body Human Generation in 360$^{\circ}$ from Hand-drawn Sketches](https://doi.org/10.1109/TVCG.2026.3657593). IEEE Transactions on Visualization and Computer Graphics. 2026: 1-15.
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
