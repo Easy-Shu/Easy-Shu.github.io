@@ -114,6 +114,12 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FTEX</div><img src='images/Fashion_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Xingzhi Shi, Zixu Cai, **Jie Zhang**\*, Yadie Yang*. 3D Female Breasts Aging Patterns Integrating Age and BMI for Ergonomic Fashion Design. Fashion and Textiles. 2026: 1-20.
+</div>
+</div>
+
 # 📝 Selected Publications for Human Wearable Design
 
 
@@ -197,7 +203,7 @@ Janmin Wang, Jingyan Yang, Qianwen Fu, **Jie Zhang**\*, Jun Zhang\*. [A New Desi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/TIM_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
- Huiming Hu,Xingzhi Shi, Wenfang Song,Yadie Yang*, **Jie Zhang**\*. [Research Progress of Intelligent Sitting Posture Monitoring Systems: A Survey](https://doi.org/10.1109/TIM.2025.3588986). IEEE Transactions on Instrumentation & Measurement. 2025：1-22. 
+ Huiming Hu,Xingzhi Shi, Wenfang Song, Yadie Yang*, **Jie Zhang**\*. [Research Progress of Intelligent Sitting Posture Monitoring Systems: A Survey](https://doi.org/10.1109/TIM.2025.3588986). IEEE Transactions on Instrumentation & Measurement. 2025：1-22. 
 </div>
 </div>
 
