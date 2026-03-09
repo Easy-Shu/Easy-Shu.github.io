@@ -31,7 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A).
+- *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~4%).
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2026.3657593) (JCR Q1/CCF A).
 - *2025.12*: &nbsp;🎉🎉 Invited talk: International Smart Wearable Fashion Design Conference (国际服装智能可穿戴设计大会).
 - *2025.11*: &nbsp;🎉🎉 Invited talk: The 5th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第5届设计工效学学术会议).
