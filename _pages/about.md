@@ -248,7 +248,7 @@ Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Ge
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
 
-- *2026.03*: Honourable Mention Award by [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~4%)
+- *2026.03*: Honourable Mention Award by the [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~4%)
 - *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖-世界举办历史最长，规模最大的发明展之一)
 - *2023.12*. Silver Award of [International Design Excellence Awards (IDEA)](https://www.idsa.org/awards-recognition/idea/idea-gallery/adaptspecs/) Awarded by [the Industrial Designers Society of America (IDSA)](https://www.idsa.org/) (美国「国际设计优秀奖(IDEA) 」银奖-世界三大设计奖之一)
