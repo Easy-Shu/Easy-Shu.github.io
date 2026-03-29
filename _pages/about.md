@@ -21,7 +21,7 @@ redirect_from:
 # 😀 Me
 ![](https://komarev.com/ghpvc/?username=easy-shu&base=100)
 
-Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. I has published over 40 peer-reviewed journal articles (including TOG, TVCG, TMM, TCSVT, TIM, CAD, IJHCS, IJHCI), 3 textbooks, patents, and international conference papers.My research interests include **3D anatomical human body modeling**, **CT image analysis**, **AI-driven product design**, and **AI-assisted interactive design**. 
+Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. I has published over 40 peer-reviewed journal articles and conference papers (including TOG, TVCG, TMM, TCSVT, TIM, CAD, IJHCS, IJHCI, CHI), 3 textbooks, and patents.My research interests include **3D anatomical human body modeling**, **CT image analysis**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
 **I am looking for strongly-motivated PhD candidates to join us**. [More Phd application information can be found in school enrollment homepage](https://www.mpu.edu.mo/esca/zh/phd_cat_2324.php).
 
@@ -31,6 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Invited talk: 2026 World Young Scientists Dialogue on"Artificial Intelligence +" (2026世界青年科学家“人工智能+”对话活动).
 - *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~4%).
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2026.3657593) (JCR Q1/CCF A).
 - *2025.12*: &nbsp;🎉🎉 Invited talk: International Smart Wearable Fashion Design Conference (国际服装智能可穿戴设计大会).
