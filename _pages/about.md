@@ -32,7 +32,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Invited talk: 2026 World Young Scientists Dialogue on"Artificial Intelligence +" (2026世界青年科学家“人工智能+”对话活动).
-- *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~4%).
+- *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~5%).
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by [IEEE TVCG](https://doi.org/10.1109/TVCG.2026.3657593) (JCR Q1/CCF A).
 - *2025.12*: &nbsp;🎉🎉 Invited talk: International Smart Wearable Fashion Design Conference (国际服装智能可穿戴设计大会).
 - *2025.11*: &nbsp;🎉🎉 Invited talk: The 5th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第5届设计工效学学术会议).
@@ -249,7 +249,7 @@ Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Ge
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
 
-- *2026.03*: Honourable Mention Award by the [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~4%)
+- *2026.03*: Honourable Mention Award by the [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~5%)
 - *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖-世界举办历史最长，规模最大的发明展之一)
 - *2023.12*. Silver Award of [International Design Excellence Awards (IDEA)](https://www.idsa.org/awards-recognition/idea/idea-gallery/adaptspecs/) Awarded by [the Industrial Designers Society of America (IDSA)](https://www.idsa.org/) (美国「国际设计优秀奖(IDEA) 」银奖-世界三大设计奖之一)
