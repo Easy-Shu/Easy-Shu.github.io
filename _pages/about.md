@@ -31,6 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Red Dot Design Award (Design Concepts: Soft Air Massage Bra) (德国红点设计概念大奖-世界三大设计奖之一).
 - *2026.04*: &nbsp;🎉🎉 Attended Conference: [ACM CHI](https://chi2026.acm.org/).
 - *2026.03*: &nbsp;🎉🎉 Invited talk: 2026 World Young Scientists Dialogue on"Artificial Intelligence +" (2026世界青年科学家“人工智能+”对话活动).
 - *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~5%).
@@ -118,7 +119,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FTEX</div><img src='images/Fashion_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Xingzhi Shi, Zixu Cai, **Jie Zhang**\*, Yadie Yang*. 3D Female Breasts Aging Patterns Integrating Age and BMI for Ergonomic Fashion Design. Fashion and Textiles. 2026: 1-20.
+Xingzhi Shi, Zixu Cai, **Jie Zhang**\*, Yadie Yang*. [3D Female Breasts Aging Patterns Integrating Age and BMI for Ergonomic Fashion Design](https://doi.org/10.1186/s40691-026-00474-x). Fashion and Textiles. 2026: 1-20.
 </div>
 </div>
 
@@ -249,7 +250,7 @@ Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Ge
  --> 
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
-
+- *2026.06*: Red Dot Design Award (Design Concepts: Soft Air Massage Bra) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2026.03*: Honourable Mention Award by the [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~5%)
 - *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖-世界举办历史最长，规模最大的发明展之一)
