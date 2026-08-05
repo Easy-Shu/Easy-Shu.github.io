@@ -81,7 +81,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 
 
 # 📝 Software
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Python</div><img src='images/EasyMarker_ScreenShot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EasyMarker</div><img src='images/EasyMarker_ScreenShot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Jiayu Sun, Yuhang Peng, **Jie Zhang**. [EasyMarker: A User-Centric Multi-Feature Interactive Tool for Accurate and Accessible 3D Anthropometric Landmarking](https://github.com/Easy-Shu/EasyMarker). 2026.8. Download Link: [Github](https://github.com/Easy-Shu/EasyMarker).
 </div>
