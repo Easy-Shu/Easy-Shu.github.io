@@ -9,6 +9,9 @@ main:
   - title: "Books"
     url: "/#-books"
 
+  - title: "Software"
+    url: "/#-software"
+
   - title: "Selected Publications"
     url: "/#-selected-publications-for-3d-human-modelling"
   
