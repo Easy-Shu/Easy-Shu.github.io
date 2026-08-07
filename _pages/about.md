@@ -83,10 +83,9 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 # 📝 Software
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EasyMarker</div><img src='images/EasyMarker_ScreenShot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Jiayu Sun, Yuhang Peng, **Jie Zhang**\*. [EasyMarker 1.0: A User-Centric Multi-Feature Interactive Tool for Accurate and Accessible 3D Anthropometric Landmarking](https://github.com/Easy-Shu/EasyMarker). 2026.8. Download Link: [Github](https://github.com/Easy-Shu/EasyMarker).
+Jiayu Sun, Yuhang Peng, **Jie Zhang**\*. [EasyMarker(1.0): A User-Centric Multi-Feature Interactive Tool for Accurate and Accessible 3D Anthropometric Landmarking](https://github.com/Easy-Shu/EasyMarker). 2026.8. Download Link: [Github](https://github.com/Easy-Shu/EasyMarker).
 </div>
 </div>
-
 
 # 📝 Selected Publications for 3D Human Modelling
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/TMM_2024.jpg' alt="sym" width="100%"></div></div>
@@ -275,6 +274,10 @@ Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Ge
 Journal Reviewer: IEEE TVCG, IEEE TASE, IEEE TII, IEEE TAC, CAD, Applied Ergonomics, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, IJHCS, IJHCI.
 
 # 📖 Teaching Courses
+- *CSAI2123*. Introduction to Data Science [Fall: 2026]
+- *COMP6298*. Project Report [Fall: 2026]
+- *COMP8299*. Thesis [Fall: 2026]
+
 - *CSAI2123*. Artificial Intelligence [Spring: 2026]
 - *COMP6298*. Project Report [Spring: 2026]
 - *COMP8299*. Thesis [Spring: 2026]
