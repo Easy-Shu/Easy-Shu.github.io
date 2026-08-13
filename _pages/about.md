@@ -137,7 +137,7 @@ Zhiying Hong, Hang Ren, Yadie Yang, Yapeng Wang, Yang Wen, **Jie Zhang**\*. [Sca
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/TVC_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/IJIE_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Yuxin Zhou, Hang Ren, Yuxin Wang, **Jie Zhang**\*. [Parametric Statistical Shape Modeling and Covariate-Conditioned Reconstruction of 3D Ear Anatomy for Ergonomic Design](https://www.sciencedirect.com/journal/international-journal-of-industrial-ergonomics). International Journal of Industrial Ergonomics. 2026: 1-24. (Under Review)
 </div>
