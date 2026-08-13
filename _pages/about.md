@@ -130,6 +130,20 @@ Xingzhi Shi, Zixu Cai, **Jie Zhang**\*, Yadie Yang*. [3D Female Breasts Aging Pa
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVC</div><img src='images/TVC_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Zhiying Hong, Hang Ren, Yadie Yang, Yapeng Wang, Yang Wen, **Jie Zhang**\*. [Scan2Anat: Anatomically-Guided Surface-to-Skeleton Reconstruction of 3D Human Body Scans](https://link.springer.com/journal/371). The Visual Computer. 2026: 1-21. (Under Review)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/TVC_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Yuxin Zhou, Hang Ren, Yuxin Wang, **Jie Zhang**\*. [Parametric Statistical Shape Modeling and Covariate-Conditioned Reconstruction of 3D Ear Anatomy for Ergonomic Design](https://www.sciencedirect.com/journal/international-journal-of-industrial-ergonomics). International Journal of Industrial Ergonomics. 2026: 1-24. (Under Review)
+</div>
+</div>
+
+
 # 📝 Selected Publications for Human Wearable Design
 
 
