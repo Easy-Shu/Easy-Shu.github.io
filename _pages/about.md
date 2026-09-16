@@ -21,7 +21,7 @@ redirect_from:
 # 😀 Me
 ![](https://komarev.com/ghpvc/?username=easy-shu&base=100)
 
-Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. I has published over 40 peer-reviewed journal articles and conference papers (including TOG, TVCG, TMM, TCSVT, TAFFC, TIM, CAD, IJCV, IJHCS, IJHCI, CHI), 3 textbooks, and patents.My research interests include **3D anatomical human body modeling**, **CT image analysis**, **AI-driven product design**, and **AI-assisted interactive design**. 
+Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic University. I received the Ph.D. degree in Intelligent Design from The Hong Kong Polytechnic University, Kowloon, Hong Kong in 2023. I has published over 50 peer-reviewed journal articles and conference papers (including ACM TOG, CHI; IEEE TVCG, TMM, TCSVT, TAFFC, TIM; IJCV, IJHCS, IJHCI, CAD), 3 textbooks, and patents.My research interests include **3D anatomical human body modeling**, **CT image analysis**, **AI-driven product design**, and **AI-assisted interactive design**. 
 
 **I am looking for strongly-motivated PhD candidates to join us**. [More Phd application information can be found in school enrollment homepage](https://www.mpu.edu.mo/esca/zh/phd_cat_2324.php).
 
@@ -107,7 +107,7 @@ Jiayu Sun, Yuhang Peng, **Jie Zhang**\*. [EasyMarker(1.0): A User-Centric Multi-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AE</div><img src='images/AE_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Jie Zhang**, Hang Ren, Yan Luximon, Xin Wang. [3D Head Growth and Aging Trajectories in Chinese and Caucasian for Headwear Customization: from Modeling to Comparison](https://www.sciencedirect.com/journal/applied-ergonomics). Applied Ergonomics. 2025: 1-20. 
+**Jie Zhang**, Hang Ren, Yan Luximon, Xin Wang. [3D Head Growth and Aging Trajectories in Chinese and Caucasian for Headwear Customization: from Modeling to Comparison](https://doi.org/10.1016/j.apergo.2025.104658). Applied Ergonomics. 2025: 1-20. 
 </div>
 </div>
 
