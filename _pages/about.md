@@ -31,7 +31,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 <!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Invited talk: The 6th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第5届设计工效学学术会议).
+- *2026.10*: &nbsp;🎉🎉 Invited talk: The 6th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第6届设计工效学学术会议).
 - *2026.08*: &nbsp;🎉🎉 One paper accepted by [EAAI](https://doi.org/10.1016/j.engappai.2026.115890) (JCR/CAS Q1).
 - *2026.07*: &nbsp;🎉🎉 One paper accepted by [IEEE TAFFC](https://doi.org/10.1109/TAFFC.2026.3711959) (JCR/CAS Q1).
 - *2026.06*: &nbsp;🎉🎉 Red Dot Design Award (Design Concepts: Soft Air Massage Bra) (德国红点设计概念大奖-世界三大设计奖之一).
