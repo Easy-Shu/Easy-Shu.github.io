@@ -145,6 +145,13 @@ Yuxin Zhou, Hang Ren, Yuxin Wang, **Jie Zhang**\*. [Parametric Statistical Shape
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIE</div><img src='images/TIP_2027.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Fenggui Rao,Yan Luximon、*，**Jie Zhang**\*. [DisFace3DNet: Explainable Facial Attractiveness Prediction via 3D Component Disentanglement](http://arxiv.org/abs/2610.11656). 2026: 1-19. (Under Review)
+</div>
+</div>
+
+
 # 📝 Selected Publications for Human Wearable Design
 
 
