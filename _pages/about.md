@@ -152,6 +152,15 @@ Fenggui Rao,Yan Luximon*，**Jie Zhang**\*. [DisFace3DNet: Explainable Facial At
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/HF_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Jinbo Luo, Hang Ren, Yadie Yang, **Jie Zhang**\*. [Integrating 3D Posture Neutralization with Statistical Shape Modeling for Head–Neck-Shoulder Ergonomic Design](https://arxiv.org/abs/2610.17671). 2026: 1-16.
+</div>
+</div>
+
+
+
+
 # 📝 Selected Publications for Human Wearable Design
 
 
