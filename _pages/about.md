@@ -135,7 +135,7 @@ Xingzhi Shi, Zixu Cai, **Jie Zhang**\*, Yadie Yang*. [3D Female Breasts Aging Pa
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVC</div><img src='images/TVC_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Zhiying Hong, Hang Ren, Yadie Yang, Yapeng Wang, Yang Wen, **Jie Zhang**\*. [Scan2Anat: Anatomically-Guided Surface-to-Skeleton Reconstruction of 3D Human Body Scans](https://link.springer.com/journal/371). The Visual Computer. 2026: 1-21.
+Zhiying Hong, Hang Ren, Yadie Yang, Yapeng Wang, Yang Wen, **Jie Zhang**\*. [Scan2Anat: Anatomically-Guided Surface-to-Skeleton Reconstruction of 3D Human Body Scans](https://doi.org/10.1007/s00371-026-04850-y). The Visual Computer. 2026: 1-12.
 </div>
 </div>
 
