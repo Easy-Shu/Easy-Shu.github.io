@@ -35,7 +35,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2026.09*: &nbsp;🎉🎉 Invited talk: The 6th Design Ergonomics Academic Conference of the Chinese Ergonomics Society (中国人类工效学学会第6届设计工效学学术会议).
 - *2026.08*: &nbsp;🎉🎉 One paper accepted by [EAAI](https://doi.org/10.1016/j.engappai.2026.115890) (JCR/CAS Q1).
 - *2026.07*: &nbsp;🎉🎉 One paper accepted by [IEEE TAFFC](https://doi.org/10.1109/TAFFC.2026.3711959) (JCR/CAS Q1).
-- *2026.06*: &nbsp;🎉🎉 Red Dot Design Award (Design Concepts: Soft Air Massage Bra) (德国红点设计概念大奖-世界三大设计奖之一).
+- *2026.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts: Soft Air Massage Bra)](https://www.red-dot.org/project/airelief-90990) (德国红点设计概念大奖-世界三大设计奖之一).
 - *2026.04*: &nbsp;🎉🎉 Attended Conference: [ACM CHI](https://chi2026.acm.org/).
 - *2026.03*: &nbsp;🎉🎉 Invited talk: 2026 World Young Scientists Dialogue on"Artificial Intelligence +" (2026世界青年科学家“人工智能+”对话活动).
 - *2026.01*: &nbsp;🎉🎉 Two papers accepted by [ACM CHI](https://chi2026.acm.org/) (CCF A) and one of them won an Honourable Mention Award (top ~5%).
@@ -49,7 +49,7 @@ Now I’m a Lecturer (equivalent to Assistant Professor) at Macao Polytechnic Un
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by [ACM Multimedia](https://arxiv.org/abs/2507.03903) (CCF A).
 - *2025.07*: &nbsp;🎉🎉 Invited talk: Greater Bay Area Summit on Artificial Intelligence & Data Science Applications & The 18th China R Conference (Guangzhou) (大湾区人工智能与数据科学应用峰会暨第18届中国R会议（广州）).
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (JCR Q1).
-- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123)(德国红点设计概念大奖-世界三大设计奖之一).
+- *2025.06*: &nbsp;🎉🎉 [Red Dot Design Award (Design Concepts: Prosthetic Sports Bra)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123)(德国红点设计概念大奖-世界三大设计奖之一).
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies) (JCR Q1/CCF A).
 - *2025.05*: &nbsp;🎉🎉 Invited talk: Frontiers in Myopia Research & the 8th Academic Conference on Myopia (海上之光·近视论道前沿会议暨第八届近视论道学术会议).
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design) (JCR Q2/CCF B).
@@ -289,9 +289,9 @@ Ziwei Chen, Qiang Li, **Jie Zhang**, Pui Keung Kong, Ping Li. [Sketch2Avatar: Ge
  --> 
 
 <!--<div class='paper-box-image'><div><img src='images/award1.jpg' alt="sym"  style="width: 100%; height: auto;"></div></div>-->
-- *2026.06*: Red Dot Design Award (Design Concepts: Soft Air Massage Bra) (德国红点设计概念大奖-世界三大设计奖之一)
+- *2026.06*: [Red Dot Design Award (Design Concepts: Soft Air Massage Bra)](https://www.red-dot.org/project/airelief-90990) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2026.03*: Honourable Mention Award by the [ACM CHI](https://chi2026.acm.org/) (CCF A, top ~5%)
-- *2025.06*: [Red Dot Design Award (Design Concepts)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
+- *2025.06*: [Red Dot Design Award (Design Concepts: Prosthetic Sports Bra)](https://www.red-dot.org/project/balance-prosthetic-sports-bra-83123) (德国红点设计概念大奖-世界三大设计奖之一)
 - *2024.04*. Gold Medal with Congratulations of the Jury Awarded by [the International Exhibition of Inventions Geneva](https://www.inventions-geneva.ch/en/home-en/) (瑞士日内瓦「国际发明展」评审团特别嘉许金奖-世界举办历史最长，规模最大的发明展之一)
 - *2023.12*. Silver Award of [International Design Excellence Awards (IDEA)](https://www.idsa.org/awards-recognition/idea/idea-gallery/adaptspecs/) Awarded by [the Industrial Designers Society of America (IDSA)](https://www.idsa.org/) (美国「国际设计优秀奖(IDEA) 」银奖-世界三大设计奖之一)
 - *2023.11*. Outstanding Contribution Award for the 20th Anniversary of [the Publishing House of Electronic Industry-Broadview](http://www.broadview.com.cn/) 
